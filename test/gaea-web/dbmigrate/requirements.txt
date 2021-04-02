@@ -1,4 +1,4 @@
-Flask==0.10.1
+Flask==1.0
 SQLAlchemy==1.1.1
 sqlalchemy_migrate==0.10.0
 Flask-SQLAlchemy==2.1
